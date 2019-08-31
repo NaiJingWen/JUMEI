@@ -3,9 +3,6 @@
 ![](https://github.com/wuyuanlijie/ImageFile/blob/master/JmBg/allBg.PNG)<br>
 
 ## 效果预览
->### 👉预览地址：[请点我！在线预览，手机浏览或切换浏览器移动调试](http://www.jerrylee520.cn:8080/index.html#/index/page1)
->### PS：google浏览器在切换不同的手机测试，需要重新刷新页面；安卓手机可能不适应
->### 👉源码地址：[Github在这里](https://github.com/wuyuanlijie/vue-jumei-app)
 ![](https://github.com/wuyuanlijie/ImageFile/blob/master/JmBg/jm1.gif)
 ![](https://github.com/wuyuanlijie/ImageFile/blob/master/JmBg/jm2.gif)<br>
 ![](https://github.com/wuyuanlijie/ImageFile/blob/master/JmBg/jm3.gif)<br>
